@@ -5,7 +5,7 @@ This project demonstrates the use of state-of-the-art natural language processin
 Features
 Fast and efficient tokenization and POS tagging with spaCy
 
-Accurate dependency parsing and NER using Stanford NLP (Stanza) models
+Accurate dependency parsing and NER using Stanford NLP  models
 
 Easy interoperability between spaCy and Stanza pipelines
 
