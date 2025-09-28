@@ -1,6 +1,6 @@
 # Natural-language-processing
 
-This project demonstrates the use of state-of-the-art natural language processing libraries, spaCy and Stanford NLP (Stanza), to perform key NLP tasks including tokenization, part-of-speech tagging, named entity recognition (NER), and dependency parsing.
+This project demonstrates the use of state-of-the-art natural language processing libraries, spaCy and Stanford NLP, to perform key NLP tasks including tokenization, part-of-speech tagging, named entity recognition (NER), and dependency parsing.
 
 Features
 Fast and efficient tokenization and POS tagging with spaCy
