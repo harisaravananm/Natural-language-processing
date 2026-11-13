@@ -1,30 +1,41 @@
-# Natural-language-processing
+﻿# Natural Language Processing Laboratory
 
-This list of experiments demonstrates the use of state-of-the-art natural language processing libraries, spaCy and Stanford NLP, to perform key NLP tasks including tokenization, part-of-speech tagging, named entity recognition (NER), and dependency parsing.
+[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Natural-language-processing?style=for-the-badge)](https://github.com/harisaravananm/Natural-language-processing/commits/main)
 
-Features
-Fast and efficient tokenization and POS tagging with spaCy
+A set of NLP experiments covering tokenization, part-of-speech tagging, named-entity recognition, dependency parsing, topic modeling, translation, and sentiment analysis.
 
-Accurate dependency parsing and NER using Stanford NLP  models
+## Table of Contents
 
-Easy interoperability between spaCy and Stanza pipelines
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Project structure](#project-structure)
+- [License](#license)
 
-Example scripts showing text processing, entity extraction, and syntactic analysis
+## Features
 
-## 📊 Results Summary
+- Clear project organization for learning, experimentation, or demonstration
+- Project-specific workflows documented below
+- Reproducible local setup instructions
 
-| Experiment | Metric | Score | Time |
-|------------|--------|-------|------|
-| Exp 1: POS/NER | Accuracy | 95%+ | Instant |
-| Exp 2: LDA | Coherence Score | 0.45-0.55 | 2-5 min |
-| Exp 3: LSA | Explained Variance | 65-75% | 1-2 min |
-| Exp 4: HMM POS | Accuracy | 92-95% | 5-10 min |
-| Exp 5: CRF NER | F1-Score | 85-90% | 10-15 min |
-| Exp 6: Dependency | Accuracy | 90%+ | Instant |
-| Exp 7: Constituency | Parse Success | 95%+ | Instant |
-| Exp 8: Seq2Seq NMT | BLEU Score | 25-35 | 2-3 hours |
-| Exp 9: BERT Sentiment | Accuracy | 91-93% | 30-45 min |
-| Exp 10: CNN Text | Accuracy | 87-90% | 15-20 min |
+## Tech stack
 
+Python, spaCy, Stanford NLP, Stanza, machine learning, and deep learning
 
+## Quick start
 
+Review the experiment document you want to run, install its listed Python libraries, and execute the corresponding notebook or script. Keep the datasets and model downloads described by each experiment available locally.
+
+## Project structure
+
+```text
+.
+|-- nlp 1.docx ... nlp 10.docx
+|-- Nlp 8.docx
+|-- Nlp 9.docx
+`-- Nlp 10.docx
+```
+
+## License
+
+No root LICENSE file is currently included.
