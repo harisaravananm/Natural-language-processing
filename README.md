@@ -1,6 +1,8 @@
-﻿# Natural Language Processing Laboratory
+# Natural Language Processing Laboratory
 
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Natural-language-processing?style=for-the-badge)](https://github.com/harisaravananm/Natural-language-processing/commits/main)
+<!-- tech-version-badges -->
+![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![spaCy 3.x](https://img.shields.io/badge/spaCy-3.x-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![Stanza NLP](https://img.shields.io/badge/Stanza-NLP-6A1B9A?style=for-the-badge) ![Stanford NLP](https://img.shields.io/badge/Stanford-NLP-B71C1C?style=for-the-badge)
+<!-- /tech-version-badges -->
 
 A set of NLP experiments covering tokenization, part-of-speech tagging, named-entity recognition, dependency parsing, topic modeling, translation, and sentiment analysis.
 
